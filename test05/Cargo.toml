@@ -1,0 +1,11 @@
+[package]
+name = "test05"
+version = "0.1.0"
+authors = ["atifjabbar <atifjabbar@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "test05"
+path = "main.rs"
